@@ -1,0 +1,27 @@
+{
+  "name": "createapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangel022/CreateApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mangel022/CreateApi/issues"
+  },
+  "homepage": "https://github.com/Mangel022/CreateApi#readme",
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "start" : "node app/server.js"
+}
